@@ -30,8 +30,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "javascript-obfuscator": "latest",
     "gulp-util": "^3.0.5",
+    "javascript-obfuscator": "^0.10.0-beta.8",
     "through2": "^2.0.0"
   }
 }

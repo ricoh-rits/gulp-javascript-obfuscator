@@ -30,11 +30,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "javascript-obfuscator": "^0.27.2",
-    "through2": "^2.0.0",
-    "plugin-error": "^1.0.1",
-    "vinyl": "^2.2.0",
-    "vinyl-sourcemaps-apply": "^0.2.1",
-    "acorn": "^6.0.0"
+    "gulp-util": "^3.0.5",
+    "javascript-obfuscator": "^0.10.0-beta.8",
+    "through2": "^2.0.0"
   }
 }
